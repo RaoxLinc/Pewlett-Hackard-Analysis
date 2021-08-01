@@ -21,5 +21,5 @@ We've determine the number of retiring employees per title, and identify employe
 ![mentorship_eligibility](Resources/mentorship_eligibility.PNG)
 
 ## Summary: 
-There are 90398 employees who will be retiring during this "silver tsunami" who can mentor employees before they embark on their new journey. There are currently 1549 people who are elligible for mentorship, while that seems like a low number it does not mean that the working environment will be overbaring. Technology is improving as each day passes and hopefully the new generation is also adaptive which can compensate the amount of employees retiring. 
+There are 90398 employees who will be retiring during this "silver tsunami" who can mentor employees before they embark on their new journey. There are currently 1549 people who are elligible for mentorship, while that seems like a low number it does not mean that the working environment will be overbaring when thye retire. Technology is improving as each day passes and hopefully the new generation is also adaptive which can compensate the amount of employees retiring.
 
